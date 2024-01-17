@@ -1,0 +1,12 @@
+div{
+    text-align: center;
+}
+label{
+    text-align: left;
+}
+
+.alert{
+    color: aliceblue;
+    margin-bottom: 15px;
+    text-align: left;
+}
